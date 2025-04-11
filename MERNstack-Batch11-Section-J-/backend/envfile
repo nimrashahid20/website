@@ -1,0 +1,8 @@
+JWT_SECRET = smit
+MONGO_URL = mongodb+srv://umrabadar:UmraBadar@umracluster.txs0w.mongodb.net/?retryWrites=true&w=majority&appName=UmraCluster
+CLOUDINARY_API_KEY = 874695475982877
+CLOUDINARY_API_SECRET = JR40P4j_BjRRx2v2R71ciYd6wX8
+CLOUDINARY_CLOUD_NAME = dkkqldaic
+
+# VITE_API_BASE_URL  = "http://localhost:5000/api"
+VITE_API_BASE_URL  = "https://mernstack-batch11-section-j-production.up.railway.app"
